@@ -3,3 +3,4 @@
 #  agar saari log files ko ignore karna hai toh.....
 
 /abc/
+static/abc
